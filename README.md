@@ -5,6 +5,6 @@
 
   # dekrt's Website
 
-  Visit **[hccs.hust.edu.cn](http://hccs.hust.edu.cn)** 🚀
+  Visit **[dekrt.cn/hccs-hust](http://dekrt.cn/hccs-hust)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
