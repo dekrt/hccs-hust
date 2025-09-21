@@ -1,1 +1,1 @@
-Sitemap: http://hccs.hust.edu.cn/sitemap.xml
+Sitemap: http://dekrt.cn/hccs-hust/sitemap.xml
