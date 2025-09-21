@@ -1,10 +1,9 @@
 ---
 ---
 
-# dekrt's Website
+# 华中科技大学John Hopcroft计算中心
 
-An engaging 1-3 sentence description of your lab.
-
+Hopcroft Center of Computer Science
 {% include section.html %}
 
 ## Highlights
